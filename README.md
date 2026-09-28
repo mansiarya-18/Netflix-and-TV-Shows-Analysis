@@ -1,4 +1,4 @@
-# VortexTech AI/ML Internship - Week 1: Data Cleaning and EDA
+# Data Cleaning and EDA
 
 ## What this project does
 This project takes a raw Netflix Movies and TV Shows dataset (from Kaggle) and:
